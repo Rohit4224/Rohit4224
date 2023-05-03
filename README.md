@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student at **42 Firenze**
 
-- 🌱 Engaged in developing my projects in **C/C++**
+- 🌱 Engaged in developing my projects in **C**
 
 <p align="left">
 </p>
