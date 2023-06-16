@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student at **42 Firenze**
 
-- 🌱 Engaged in developing my projects in **C**
+- 🌱 Engaged in developing my projects in **C** and Web Development.
 
 <p align="left">
 </p>
@@ -14,7 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vim,linux,bash,vscode,git,github,discord,LinkedIn,HTML,css"/>
+    <img src="https://skillicons.dev/icons?i=c,html,css,vim,linux,bash,vscode,git,github,discord,LinkedIn"/>
   </a>
 </p>
 
