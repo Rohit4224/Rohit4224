@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a student at **42 Firenze**
 
-- 🌱 Engaged in developing my projects in **C** and Web Development.
+- 🌱 Engaged in developing my projects in **C** and practicing Web Development.
 
 <p align="left">
 </p>
