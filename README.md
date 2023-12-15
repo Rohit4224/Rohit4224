@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a student at **Generation Italy, Milan**
 
-- 🌱 Engaged in developing my projects in **C** and practicing Web Development.
+- 🌱 Engaged in developing my projects in **JAVA** and practicing JAVA Development.
 
 <p align="left">
 </p>
