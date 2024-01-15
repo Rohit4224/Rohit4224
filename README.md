@@ -5,7 +5,7 @@
 <h3 align="center">I am confident that with my drive, adaptability, and passion for learning, I can thrive in this exciting and fast-paced field.</h3>
 
 
-- 🔭 I’m currently a student at **Generation Italy, Milan**
+- 🔭 I’m currently under training at **Generation Italy, Milan**
 
 - 🌱 Engaged in developing my projects in **JAVA** and practicing JAVA Development.
 
