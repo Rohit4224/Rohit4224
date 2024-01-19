@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Khinchi <img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> </h1>
+<h1 align="center">Hi 👋, I'm Rohit Khinchi <img align="right top" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> </h1>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4224&layout=compact"/>
 
