@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently contributing to **Healthy Reply's** project.
 
-- 🌱 Engaged in developing my projects in Full Stack **JAVA** Development.
+- 🌱 Full Stack **JAVA** Developer.
 
 <p align="left">
 </p>
