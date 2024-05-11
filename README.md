@@ -5,9 +5,9 @@
 <h3 align="center">I am confident that with my drive, adaptability, and passion for learning, I can thrive in this exciting and fast-paced field.</h3>
 
 
-- 🔭 I’m currently under training at **Generation Italy, Milan**
+- 🔭 I’m currently contributing to **Healthy Reply's** project.
 
-- 🌱 Engaged in developing my projects in **JAVA** and practicing JAVA Development.
+- 🌱 Engaged in developing my projects in Full Stack **JAVA** Development.
 
 <p align="left">
 </p>
